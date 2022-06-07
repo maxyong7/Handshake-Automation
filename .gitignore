@@ -1,3 +1,4 @@
 src/secrets.ts
 dst
 node_modules
+*.json
