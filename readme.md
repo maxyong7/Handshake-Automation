@@ -13,7 +13,7 @@ It can:
 <br />
 <br />
         
-###  <ins> **Helpful resources when I was learning to use Puppeteer:**
+###  <ins> **Helpful resources**
 #### 1. **XPath CheatSheet** 
 - https://devhints.io/xpat
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
