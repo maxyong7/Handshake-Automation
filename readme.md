@@ -1,4 +1,5 @@
 #### Web Scraping Automation Script for "Handshake"
+> Utilized: Typescript, Puppeteer, XPath, JSON, Cookies
 
 It can:
 > 1. Automatically click **"Apply"** and **upload** both _"Resume"_ and _"Cover Letter"_
