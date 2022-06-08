@@ -1,4 +1,4 @@
-#### Web Scraping Script for "Handshake"
+#### Web Scraping Automation Script for "Handshake"
 
 It can:
 > 1. Automatically click **"Apply"** and **upload** both _"Resume"_ and _"Cover Letter"_
